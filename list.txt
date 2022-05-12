@@ -7,3 +7,4 @@ Componants
     Contact us page
     Login page
     Login modal
+    Awsome icons
