@@ -1,8 +1,8 @@
 Componants
 
-    Header
     Footer
     Hero banner
+    Pricing section
     Article page
     Contact us page
     Login page
